@@ -1,5 +1,21 @@
 # React + TypeScript + Vite
 
+## Content
+Proyecto estructurado en React, que permite escalar proyectos y empezar a dejar el pensamiento de que necesitamos la separación en componentes pequeños fáciles de reutilizar y probar.
+
+- Peticiones HTTP
+- Debounce
+- Manejo de estado
+- Comunicación entre componentes
+- useEffect
+- Variables de entorno
+- Fuentes personalizadas
+- Custom Hooks - Hooks personalizados
+- DevTools de React
+- useRef - Hook propio de React
+- Generar versión de producción
+- Separación de responsabilidades
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
